@@ -1,0 +1,22 @@
+button{
+  font-size: 16px;
+  background-color: red;
+  font-style: italic;
+  padding: 5px;
+
+}
+
+.count{
+  font-size: 32px;
+  color: green;
+  padding: 5px;
+}
+
+.reset{
+  background-color: green;
+  font-size: 16px;
+  font-style: italic;
+  padding: 5px;
+
+
+}
